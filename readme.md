@@ -18,7 +18,7 @@
 ### Back-end
 | Category          | Stack                                                                           |
 | ----------------- | ------------------------------------------------------------------------------- |
-| Framework         | - Spring Boot 2.7.11                                                            |
+| Framework         | - Spring Boot 3.4.1                                                             |
 | Test              | - JUnit 5                                                                       |
 | Infra             | - AWS EC2 <br>- Maven <br>                                                      |
 | Database          | - MySql <br>- 공공데이터                                                         |
